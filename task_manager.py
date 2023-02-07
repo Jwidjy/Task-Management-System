@@ -482,5 +482,5 @@ while True:
         exit()
 
     else:
-        print("You have made a wrong choice, Please Try again")
+        print("You have made a wrong choice, Please try again")
         continue
