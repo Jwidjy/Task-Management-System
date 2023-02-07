@@ -1,0 +1,7 @@
+User Overview
+
+Total number of tasks assigned to user:                   5
+Percentage of total tasks assigned to user:               71%
+Percentage of user-assigned completed tasks:              20%
+Percentage of user-assigned uncompleted tasks:            80%
+Percentage of user-assigned uncompleted & overdue tasks:  40%

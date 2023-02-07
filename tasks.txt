@@ -1,0 +1,8 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, Yes
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2018, No
+Kevin, Help catch Espeon, help catch espeon, 15 Dec 2022, 15 Dec 2024, No
+admin, help, title, 22 Dec 2022, 31 Jan 2024, No
+admin, fdsa, fdsa, 22 Dec 2022, 21 Dec 2022, No
+Jeffery, Testing, Testing, 22 Dec 2022, 22 Dec 2022, No
+admin, testing, testing, 22 Dec 2022, 29 Jan 2023, No
+Jakub, Vacuum, Vacuuming around house, 22 Dec 2022, 24 Dec 2022, Yes
